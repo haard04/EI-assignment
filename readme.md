@@ -1,5 +1,7 @@
 This assesment is intended for Educational initiative.
-The Design Patterns I created:
+Done By Haard Shah - 21BCP251 - Pandit Deendayal Energy University
+
+The Design Patterns I created (Java):
 
 - Creational:
     - Abstract Factory Method
@@ -12,3 +14,7 @@ The Design Patterns I created:
 - Behvaioural
     - Observer Design Pattern
     - Memento Design Pattern
+
+Question 2 -  Part 8 
+
+- Virtual Classroom Manager Programming Exercise (TypeScript)
